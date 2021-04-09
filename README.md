@@ -1,10 +1,13 @@
 ### Hello World! 🌎🤓
 
-* 🌱 I’m currently learning...  
-- Python, but  would love to learn more languages
+* 🌱 Atualmente estudando...  
+- Python, Git e GitHub
+
+* 🤔 Interesse em...
+- HTML, CSS, JS, Django e muito mais
 
 * 💬 Ask me about ... 
-- My names is Lucas (18 years), living in Brazil with bad english 🤣.Started in programming now and im loving
+- meu nome é Lucas (18 anos), comecei a programar faz pouco tempo, mas ja estou amando.
   
 * 📫 How to reach me: ...
-- I have a pessoal E-mail, but i not use much (lukkealvess@gmail.com)
+- Eu tenho um E-mail pessoal (lukkealvess@gmail.com)
