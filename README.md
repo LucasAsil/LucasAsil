@@ -1,13 +1,13 @@
-### Hello World! 🌎🤓
+# Hello World! 🌎🤓
 
 * 🌱 **Atualmente estudando...**  
-- Python, Git e GitHub
+      - *Python, Git e GitHub*
 
 * 🤔 **Interesse em...**
-- HTML, CSS, JS, Django e muito mais
+      - *HTML, CSS, JS, Django e muito mais*
 
 * 💬 **Ask me about ...**
-- meu nome é Lucas (19 anos), comecei a programar faz pouco tempo, mas ja estou amando.
+      - *meu nome é Lucas (19 anos), comecei a programar faz pouco tempo, mas ja estou amando.*
   
 * 📫 **How to reach me: ...**
-- Eu tenho um E-mail pessoal (lukkealvess@gmail.com)
+      - *Eu tenho um E-mail pessoal (lukkealvess@gmail.com)*
