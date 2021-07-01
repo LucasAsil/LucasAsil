@@ -1,4 +1,3 @@
-![Airman](https://user-images.githubusercontent.com/68728828/124042868-2dd88b80-d9e0-11eb-89a2-afe40dfda89e.png)
 # Hello World! 🌎🤓
 
 [Acesse meu GitHub](https://github.com/LucasAsil)
