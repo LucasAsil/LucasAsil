@@ -1,15 +1,24 @@
-# Hello World! 🌎🤓
-
-[Acesse meu GitHub](https://github.com/LucasAsil)
-
+# Bem-Vindos ao meu perfil!🙃
 * 🌱 **Atualmente estudando...**  
    - *Python
-
 * 🤔 **Interesse em...**
    - *HTML, CSS, JS, Django e muito mais*
 
-* 💬 **Ask me about ...**
-   - *meu nome é Lucas (19 anos), comecei a programar faz pouco tempo, e busco seguir na carreira de Back-End.*
-  
-* 📫 **How to reach me: ...**
-   - *Eu tenho um E-mail pessoal (lukkealvess@gmail.com)*
+<div align="left">
+  <a href="https://github.com/LucasAsil">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasAsil&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAsil&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+<div style="display: inline_block"><br>
+   <img align="center" alt="Lu-Python "height="30" width="40" 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+</div>   
+
+##   
+
+<div>   
+   <a href= "mailto:lukkealvess@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+   <a href= "https://www.instagram.com/lukkealvess/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>      
+   <a href= "https://www.linkedin.com/in/lucas-alves-silva-7b7579228/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>      
+</div>
