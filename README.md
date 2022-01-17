@@ -1,6 +1,6 @@
 # Bem-Vindos ao meu perfil!🙃
 * 🌱 **Atualmente estudando...**  
-   - Banco de dados na Alura
+   - Lógica na Alura
 * 🤔 **Interesse em...**
    - *HTML, CSS, JS, Django e muito mais*
 
