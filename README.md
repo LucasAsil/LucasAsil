@@ -1,8 +1,8 @@
 # Bem-Vindos ao meu perfil!🙃
 * 🌱 **Atualmente estudando...**  
-   - Lógica|HTML-CSS na Alura
+   - HTML-CSS-Python
 * 🤔 **Interesse em...**
-   - *SQL, Django e muito mais*
+   - *Django, Pandas e muito mais*
 
 <div align="left">
   <a href="https://github.com/LucasAsil">
